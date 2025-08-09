@@ -22,6 +22,12 @@ a:hover{
     
 }
 
+img {
+    border-radius: 50%;
+    border: 3px solid;
+    border-color: darkblue;
+}
+
 .audiowide-regular {
   font-family: "Audiowide", sans-serif;
   font-weight: 400;
